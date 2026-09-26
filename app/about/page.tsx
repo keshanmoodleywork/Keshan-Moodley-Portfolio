@@ -7,6 +7,7 @@ const SKILLS = [
   "HTML",
   "SQL",
   "CSS",
+  "JavaScript",
   "Coming Soon"
 ];
 
