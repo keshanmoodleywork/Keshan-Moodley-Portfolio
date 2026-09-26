@@ -48,15 +48,7 @@ export default function AboutPage() {
           </h2>
 
           <p className="text-white/70 leading-relaxed">
-            My interest in Information Technology started through my love for
-            gaming and anime, which made me curious about how technology can
-            create interactive digital experiences. As I learned more about
-            computers and how software works, I became interested in
-            understanding what happens behind the screen. Learning about
-            programming and solving problems made me realise that I enjoy using
-            technology to create and improve things. This eventually motivated
-            me to pursue Computer Science and work towards a career in software
-            development.
+            The area of Information Technology attracted my attention via my passion for games. My interest in the way technology can create an interactive experience in the virtual world has developed into an interest in learning what goes on behind the computer screen. My interest in programming and problem-solving has made me realize that I like to use technology to create and enhance something. It has encouraged me to get into Computer Science.
           </p>
         </section>
 
@@ -67,15 +59,7 @@ export default function AboutPage() {
           </h2>
 
           <p className="text-white/70 leading-relaxed">
-            Over the next few years, I would like to grow into a skilled
-            software developer and gain experience working on real-world
-            software projects. I am interested in the technology and gaming
-            industries, where I could combine my interest in technology with
-            my creativity and problem-solving skills. I would like to work for
-            a company where I can learn from experienced developers, contribute
-            to meaningful projects and continue developing my technical skills.
-            Ultimately, I want to build a successful career in software
-            development and keep growing as technology evolves.
+            In the coming few years, I intend to develop myself into an efficient software engineer with practical experience in software engineering projects. I would be keen on getting into the technology industry and/or gaming industry where I can put together my fascination in technology and my creative and problem-solving abilities. I would like to join a firm where I can learn from professional software engineers and participate in relevant projects and further my technical knowledge. In essence, I would like to create a successful career as a software engineer.
           </p>
         </section>
 
@@ -86,13 +70,7 @@ export default function AboutPage() {
           </h2>
 
           <p className="text-white/70 leading-relaxed">
-            The area that excites me most is software development, particularly
-            coding and creating software. I enjoy writing code, solving
-            problems and seeing an idea turn into something that actually works.
-            I find the development process interesting because there is always
-            something new to learn and improve. My main goal is to become a
-            strong software developer and continue building my skills through
-            practical experience.
+            My most exciting area of study involves the development of software and codes. I love coding as well as making codes. It is very fascinating for me to code and solve problems and make ideas come true. What makes me excited about development process is that there is always something new that one can learn or better himself or herself. My primary objective is to be a good software developer.
           </p>
         </section>
 
@@ -107,58 +85,33 @@ export default function AboutPage() {
           <div className="space-y-5 text-white/70 leading-relaxed">
 
             <p>
-              During this module, I have learned more about what it means to
-              develop myself as an IT professional and how important it is to
-              present my skills and experience professionally. I have also
-              gained a better understanding of how to create a digital
-              portfolio and use it to communicate my interests, skills,
-              education and career goals. Building this portfolio has given me
-              the opportunity to reflect on my journey into Information
-              Technology, which started around Grade 8 when I first became
-              interested in technology. In Grade 10, I chose Information
-              Technology as a subject, which increased my interest in
-              programming and eventually influenced my decision to study
-              Computer and Information Sciences in Application Development at
-              college, with a focus on Computer Science.
+              Throughout this module, I have become more aware of the meaning of developing oneself as an IT professional and the importance of presenting oneself professionally. During this module, I have also become more familiar with the development of a digital portfolio, which will help me convey my interests, skills, education and career aspirations. Through the process of developing my portfolio, I have become more aware of my journey as an IT professional, which began in Grade 8 when I developed an interest in technology. In Grade 10, I took Information Technology as a subject, which made me interested in programming and ultimately led me to choose Computer and Information Sciences in Application Development as my college degree, specifically Computer Science.
             </p>
 
             <p>
-              I believe my strongest IT professional skill is problem-solving,
-              particularly my ability to identify weaknesses in my work and
-              find ways to fix them. When I encounter an error or something
-              that does not work as expected, I try to understand what caused
-              the problem rather than simply moving on. This has helped me
-              become more patient when working with code and has shown me that
-              mistakes can be useful learning opportunities.
+              I feel that my best professional skill as an IT specialist is the problem-solving ability, especially when it comes to being able to see flaws in my performance and how to remedy them. Whenever I experience some sort of mistake or anything that is not going well for me, I make sure that I determine the cause of that instead of skipping it.
             </p>
 
             <p>
-              One skill I would like to improve is my programming ability.
-              Although I have gained experience through my studies, I know that
-              I still have a lot to learn before I can become a confident
-              software developer. I would like to become better at writing
-              more complex programs, understanding different programming
-              concepts and developing solutions without relying too heavily on
-              examples.
+              I would like to enhance my skill at programming.
+              While I have learned something from my education, I am aware
+              that there is much more for me to learn before I can feel
+              comfortable enough to be a good programmer. I would like to be
+              able to write more complex programs and understand various
+              aspects of programming without always using examples.
             </p>
 
             <p>
-              To develop this skill, I plan to practise coding regularly and
-              work on personal projects outside of my normal coursework. I
-              also want to continue learning from mistakes, research solutions
-              when I get stuck and gradually take on more challenging
-              programming problems. Building projects will allow me to apply
-              what I learn and gain practical experience.
+              In order to build this skill, I intend to code frequently and take up personal projects beyond my regular coursework. It is important for me to keep on learning from my mistakes and to research for solutions in case I am faced with any difficulties while coding. Taking up challenging coding projects will help me learn through practice.
             </p>
 
             <p>
-              This portfolio can support my future studies and career by
-              providing a place where I can document my progress and showcase
-              the skills I develop over time. As I complete more projects and
-              gain experience, I can continue adding them to the portfolio. In
-              the future, I hope it will give potential employers a better
-              understanding of my abilities, interests and growth as an
-              aspiring software developer.
+              The value of this portfolio is that it can help me in the future when I pursue further education and career by
+              serving as a platform where I can demonstrate my skills that have
+              developed throughout the time. With each passing project, I can keep
+              on including it in the portfolio, and one day in the future,
+              hopefully, it will make people understand what I am capable of as a
+              prospective software developer.
             </p>
 
           </div>
