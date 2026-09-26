@@ -1,4 +1,3 @@
-import { ArrowUpRight } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
@@ -45,15 +44,7 @@ export default function ProjectsPage() {
               <CardHeader className="pb-2">
                 <div className="flex items-center justify-between gap-4">
                   <CardTitle className="text-lg">{project.title}</CardTitle>
-                  {project.href && (
-                    <a
-                      href={project.href}
-                      className="flex items-center gap-1 text-xs font-mono text-white/60 hover:text-white transition-colors"
-                    >
-                      View
-                      <ArrowUpRight size={12} />
-                    </a>
-                  )}
+                  
                 </div>
               </CardHeader>
               <CardContent>
