@@ -6,6 +6,7 @@ const SKILLS = [
   "Delphi",
   "HTML",
   "SQL",
+  "CSS",
   "Coming Soon"
 ];
 
