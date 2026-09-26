@@ -5,7 +5,8 @@ const SKILLS = [
   "Java",
   "Delphi",
   "HTML",
-  "Coming Soon",
+  "SQL",
+  "Coming Soon"
 ];
 
 export const metadata = {
