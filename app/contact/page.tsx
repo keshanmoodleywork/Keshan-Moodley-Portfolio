@@ -59,8 +59,7 @@ export default function ContactPage() {
         </ul>
 
         <p className="text-white/40 text-sm mt-10">
-          This page intentionally omits a home address, ID number, or phone
-          number, to protect personal privacy.
+          
         </p>
       </div>
     </main>
